@@ -5,7 +5,7 @@ layout: default
 Este é um evento organizado pela comunidade Elixir.
 
 
-## Elixir Fortaleza Conf 2023
+# Elixir Fortaleza Conf 2023
 
 Este é um evento organizado pela comunidade Elixir.
 
