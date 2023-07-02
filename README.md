@@ -1,3 +1,3 @@
 # Elixir Fortaleza Conf 2023
 
-Acesse [elixiremfoco.github.io/elixirfortaleza/](elixiremfoco.github.io/elixirfortaleza/).
+Acesse [http://elixiremfoco.github.io/elixirfortaleza/](http://elixiremfoco.github.io/elixirfortaleza/).
