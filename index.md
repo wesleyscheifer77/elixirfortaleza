@@ -10,4 +10,6 @@ Local: Fortaleza, Ceará.
 
 Aguarde mais informações aqui.
 
+🆕 [Elixir Fortaleza Conf 2023 - Consulta de horários](https://bit.ly/3CXmTgp) - Ajude-nos a decidir o melhor horário para o evento!
+
 Organização: Equipe Elixir em Foco e ELUG-CE.
