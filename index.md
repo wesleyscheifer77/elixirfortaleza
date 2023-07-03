@@ -5,7 +5,7 @@ layout: default
 <meta property="og:title" content="Elixir Fortaleza Conf 2023" />
 <meta property="og:description" content="Elixir Fortaleza Conf 2023" />
 <meta property="og:url" content="https://elixiremfoco.github.io/elixirfortaleza/" />
-<meta property="og:image" content="./images/Fortaleza.jpg" />
+<meta property="og:image" content="./images/Elixir Fortaleza Conf 2023.png" />
 
 
 Este é um evento organizado pela comunidade Elixir.
