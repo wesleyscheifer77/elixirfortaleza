@@ -21,14 +21,13 @@ A Elixir Brasil 2019 já foi um evento bem maior e aconteceu em 2 dias, 25 e 26 
 
 Links:
 
-- https://2019.elixirbrasil.com/
-- https://pessoal.dainf.ct.utfpr.edu.br/adolfo/doku.php?id=2019:elixir_brasil_2019
-- https://ravan.me/2019-05-30-elixir-brasil-2019-primeiro-dia/
-- https://ravan.me/2019-06-16-elixir-brasil-2019-segundo-dia/
-- https://adolfont.medium.com/elixir-brazil-2019-4de3fc06b18f
-- https://elixirforum.com/t/elixir-brasil-2019/22401
-- https://adolfont.medium.com/elixir-brasil-2019-and-other-elixir-news-939bf52dfea9
-
+-   <https://2019.elixirbrasil.com/>
+-   <https://pessoal.dainf.ct.utfpr.edu.br/adolfo/doku.php?id=2019:elixir_brasil_2019>
+-   <https://ravan.me/2019-05-30-elixir-brasil-2019-primeiro-dia/>
+-   <https://ravan.me/2019-06-16-elixir-brasil-2019-segundo-dia/>
+-   <https://adolfont.medium.com/elixir-brazil-2019-4de3fc06b18f>
+-   <https://elixirforum.com/t/elixir-brasil-2019/22401>
+-   <https://adolfont.medium.com/elixir-brasil-2019-and-other-elixir-news-939bf52dfea9>
 
 ### Elixir Brasil 2020
 
