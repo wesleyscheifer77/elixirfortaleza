@@ -15,6 +15,6 @@ Aguarde mais informações aqui.
 🆕 [CFP (_Call for presentations_ - Chamada para apresentações) aberta](https://forms.gle/5xC22eaz6RqCkLz98) 
 
 
-Organização: Equipe Elixir em Foco e ELUG-CE.
+[Organização: Equipe Elixir em Foco e ELUG-CE.](./organizacao.md)
 
 [Saiba um pouco mais da história dos eventos da comunidade do ecossistema de Erlang no Brasil](./historia.md)
