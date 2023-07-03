@@ -31,8 +31,18 @@ Links:
 
 ### Elixir Brasil 2020
 
+Em [2020](https://2020.elixirbrasil.com/) o evento foi virtual em dois dias: 28 e 29 de novembro de 2020.
+
+- [Dia 1](https://www.youtube.com/watch?v=bG8J9I2XPso)
+- [Dia 2](https://www.youtube.com/watch?v=umFAsOYZrqQ)
+
 
 ### Elixir Brasil 2021
+
+Em [2021](https://2021.elixirbrasil.com/pt/) o evento foi virtual em dois dias: 27 e 28 de novembro de 2021.
+
+- [Dia 1](https://www.youtube.com/watch?v=QJiLO5G3xJs)
+- [Dia 2](https://www.youtube.com/watch?v=k1LBN7bFApE)
 
 
 ## Code BEAM Brasil
