@@ -11,8 +11,9 @@ Até onde sei, o primeiro evento da Comunidade do [Ecossistema de Erlang](https:
 Você pode encontrar os vídeos de várias palestras [neste link](https://pt-br.eventials.com/locaweb/events/elixir-brasil/).
 
 Links:
-- https://blog.plataformatec.com.br/2018/01/time-da-plataformatec-no-elixir-brasil-2018/
-- https://pt-br.eventials.com/locaweb/events/elixir-brasil/
+
+-   <https://blog.plataformatec.com.br/2018/01/time-da-plataformatec-no-elixir-brasil-2018/>
+-   <https://pt-br.eventials.com/locaweb/events/elixir-brasil/>
 
 ### Elixir Brasil 2019
 
