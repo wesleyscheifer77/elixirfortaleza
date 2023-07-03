@@ -18,3 +18,5 @@ Aguarde mais informações aqui.
 [Organização: Equipe Elixir em Foco e ELUG-CE.](./organizacao.md)
 
 [Saiba um pouco mais da história dos eventos da comunidade do ecossistema de Erlang no Brasil](./historia.md)
+
+<img src="https://pt.wikipedia.org/wiki/Ficheiro:Fortaleza,_Brazil_(4)_(cropped).jpg" width="70%">
