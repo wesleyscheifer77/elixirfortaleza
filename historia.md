@@ -47,7 +47,9 @@ Em [2021](https://2021.elixirbrasil.com/pt/) o evento foi virtual em dois dias: 
 
 ## Code BEAM Brasil
 
-Em construção.
+Foram 3 edições online (2020,2021 e 2022): <https://www.codebeambr.com/>
+
+
 
 
 
