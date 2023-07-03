@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<meta property="og:title" content="Elixir Fortaleza Conf 2023" />
+<meta property="og:description" content="Elixir Fortaleza Conf 2023" />
+<meta property="og:url" content="https://elixiremfoco.github.io/elixirfortaleza/" />
+<meta property="og:image" content="./images/Fortaleza.jpg" />
+
+
 Este é um evento organizado pela comunidade Elixir.
 
 Datas: 20 e 21 de setembro de 2023.
@@ -20,3 +26,5 @@ Aguarde mais informações aqui.
 [Saiba um pouco mais da história dos eventos da comunidade do ecossistema de Erlang no Brasil](./historia.md)
 
 <img src="./images/Fortaleza.jpg" width="70%">
+
+
