@@ -26,6 +26,7 @@ Links:
 - https://ravan.me/2019-06-16-elixir-brasil-2019-segundo-dia/
 - https://adolfont.medium.com/elixir-brazil-2019-4de3fc06b18f
 - https://elixirforum.com/t/elixir-brasil-2019/22401
+- https://adolfont.medium.com/elixir-brasil-2019-and-other-elixir-news-939bf52dfea9
 
 
 ### Elixir Brasil 2020
@@ -34,6 +35,9 @@ Links:
 ### Elixir Brasil 2021
 
 
+## Code BEAM Brasil
+
+Em construção.
 
 
 
@@ -46,9 +50,7 @@ Links:
 
 
 
-
-
-
+## Sobre
 
 
 Autor: Eu, [Adolfo Neto](https://adolfont.github.io/), sou o autor inicial deste texto mas espero contribuições de pessoas da comunidade.
