@@ -7,3 +7,4 @@
 - Adolfo Neto
 - Cristine Guadelupe
 - Joel Jucá
+- Charleno Pires
