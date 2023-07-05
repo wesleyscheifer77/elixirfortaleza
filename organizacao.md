@@ -9,9 +9,9 @@
 
 ## Comitê de seleção da chamada para apresentações
 
-- Adolfo Neto
+- Adolfo Neto 
 - Cristine Guadelupe
-- Joel Jucá
+- Joel Jucá ([Elug CE](https://elug-ce.github.io/))
 
 ## Colaboradores
 
