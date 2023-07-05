@@ -9,9 +9,10 @@
 
 ## Comitê de seleção da chamada para apresentações
 
-- Adolfo Neto 
-- Cristine Guadelupe
-- Joel Jucá ([Elug CE](https://elug-ce.github.io/))
+- [Adolfo Neto](https://twitter.com/adolfont) 
+- [Cristine Guadelupe](https://twitter.com/crisguade)
+- [Joel Jucá](https://twitter.com/holyshtjoe) ([Elug CE](https://elug-ce.github.io/))
+- [Elaine Naomi](https://twitter.com/elaine_nw)
 
 ## Colaboradores
 
