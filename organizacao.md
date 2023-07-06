@@ -5,7 +5,8 @@
 
 ## Comitê de organização
 
-
+- [Odwald Schreder]
+ 
 
 ## Comitê de seleção da chamada para apresentações
 
