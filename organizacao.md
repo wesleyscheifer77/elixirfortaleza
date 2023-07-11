@@ -14,6 +14,7 @@
 - [Cristine Guadelupe](https://twitter.com/crisguade)
 - [Joel Jucá](https://twitter.com/holyshtjoe) ([Elug CE](https://elug-ce.github.io/))
 - [Elaine Naomi](https://twitter.com/elaine_nw)
+- [Lubien](https://twitter.com/joao_lubien)
 
 ## Colaboradores
 
